@@ -1,3 +1,5 @@
+<img align="right" alt="heeloworld" width="400" src="https://i.imgur.com/ptYZ63S.gif">
+
 <h1 align="center">Hi 👋, I'm Wesley</h1>
 <h3 align="center">Seeking challenges and innovation.</h3>
 
