@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://iwesley.netlify.app/](https://iwesley.netlify.app/)
+- 👨‍💻 All of my projects are available at [Here](https://iwesley.netlify.app/)
 
 - 📫 How to reach me **iwesleydev@gmail.com**
 
