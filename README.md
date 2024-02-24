@@ -1,6 +1,6 @@
 <img align="right" alt="heeloworld" width="400" src="https://i.imgur.com/ptYZ63S.gif">
 
-<h1 align="center">Hi 👋, I'm Wesley</h1>
+<h1 align="center">Hi I'm Wesley</h1>
 <h3 align="center">Seeking challenges and innovation.</h3>
 
 - 🔭 I’m currently working on [encryptorX](https://github.com/iW3ll/encryptorX)
@@ -19,4 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iw3ll&show_icons=true&locale=en&layout=compact" alt="iw3ll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iw3ll&" alt="iw3ll" /></p>
+
 
