@@ -27,7 +27,6 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=iw3ll&custom_title=Rank&langs_count=3&hide_border=true' alt='Top-Extensions'>
 </picture>
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iw3ll&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iw3ll&theme=dark)](https://git.io/streak-stats)
 
 
