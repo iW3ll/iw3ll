@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available **[Here](https://iwesley.netlify.app/)**
+- 👨‍💻 All of my projects are available **[Portfolio](https://iwesley.netlify.app/)**
 
-- 📫 How to reach me **[Here](https://github.com/iW3ll/dengue-track)**
+- 📫 How to reach me **[Contact me](mailto:iwesleydev@gmail.com)**
 
 </p>
 
