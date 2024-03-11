@@ -7,13 +7,13 @@
 
 <h3>Seeking challenges and innovation.</h3>
 
-- 🔭 I’m currently working on [Dengue Track](https://github.com/iW3ll/dengue-track)
+- 🔭 I’m currently working on **[Dengue Track](https://github.com/iW3ll/dengue-track)**
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available [Here](https://iwesley.netlify.app/)
+- 👨‍💻 All of my projects are available **[Here](https://iwesley.netlify.app/)**
 
-- 📫 How to reach me **iwesleydev@gmail.com**
+- 📫 How to reach me **[Here](https://github.com/iW3ll/dengue-track)**
 
 </p>
 
