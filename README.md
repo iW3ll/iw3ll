@@ -1,5 +1,3 @@
-<img align="right" alt="heeloworld" width="400" src="https://i.imgur.com/ptYZ63S.gif">
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+I'm+Wesley" alt="Typing SVG" />
   </a>
