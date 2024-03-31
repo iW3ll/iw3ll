@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Wesley" alt="Typing SVG" /></a>
 
-<h3>Seeking challenges and innovation.</h3>
+<h3>Seeking challenges and innovation.</h
 
 - 🔭 I’m currently working on [Dengue Track](https://github.com/iW3ll/dengue-track)
 
