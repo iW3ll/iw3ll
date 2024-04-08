@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on [Dengue Track](https://github.com/iW3ll/dengue-track)
 
-- 🌱 I’m currently learning Cyber Securit
+- 🌱 I’m currently learning Cyber Security
 
-- 👨‍💻 All of my projects are available [Portfolio](https://iwesley.netlify.app/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://iwesley.netlify.app/)
 
-- 📫 How to reach me **[Contact me](mailto:iwesleydev@gmail.com)**
+- 📫 How to reach me [Contact me](mailto:iwesleydev@gmail.com)
 
 </p>
 
