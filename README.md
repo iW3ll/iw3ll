@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Dengue Track](https://github.com/iW3ll/dengue-track)
 
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning Cyber Securit
 
 - 👨‍💻 All of my projects are available [Portfolio](https://iwesley.netlify.app/)
 
