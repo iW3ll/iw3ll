@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Wesley" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on [college-project](https://github.com/iW3ll/College-Project)
+- 🔭 I’m currently working on [giveaway book project](https://github.com/iW3ll/giveaway-books)
 
 - 🌱 I’m currently learning [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security)
 
