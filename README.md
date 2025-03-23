@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [giveaway book project](https://github.com/iW3ll/giveaway-books)
 
-- 🌱 I’m currently learning [Cybersecurity](https://en.wikipedia.org/wiki/Computer_security)
+- 🌱 I’m currently learning [Cybersecurity](https://www.cisco.com/site/us/en/learn/topics/security/what-is-cybersecurity.html) and [Golang](https://go.dev/)
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://iwesley.netlify.app/)
 
